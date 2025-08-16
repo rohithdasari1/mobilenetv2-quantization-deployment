@@ -13,6 +13,7 @@
 ---
 
 ##  Project Structure
+```
 .
 ├── mobilenetv2_finetuning.ipynb # Training + fine-tuning on CIFAR-10
 ├── Quantized_mobilenetv2.ipynb # Post-training quantization + TFLite
@@ -21,7 +22,7 @@
 ├── main.py # FastAPI backend for inference
 ├── static/index.html # Simple frontend for testing
 ├── requirements.txt # Dependencies
-
+```
 
 ---
 
