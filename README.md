@@ -9,7 +9,7 @@ MobileNetV2 Quantization & Deployment
 ├── requirements.txt # Dependencies
 
 ###  Clone the repo
-
+```bash
 git clone https://github.com/rohitdasari1/mobilenetv2-quantization-deployment.git
 cd mobilenetv2-quantization-deployment
 
@@ -31,7 +31,7 @@ Go to:
 
 http://127.0.0.1:8000/static/index.html
 
-📦 Dependencies
+ Dependencies
 
 Python 3.8+
 
